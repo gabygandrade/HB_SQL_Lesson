@@ -79,7 +79,7 @@ Expansion
 ---------
 The next step is to make the program do more. We need to:
 
-* Add a student
+* Add a _student        # with the function? 
 * Query for projects by title
 * Add a project
 * Query for a student's grade given a project
